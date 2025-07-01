@@ -1,0 +1,15 @@
+!常用
+||pangolin-sdk-toutiao.com^
+||zijieapi.com^$app=com.dragon.read
+||frontier-toutiao.snssdk.com^$app=com.dragon.read
+||pangolin-sdk-toutiao-b.com^
+||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
+||pglstatp-toutiao.com^
+!其他
+||log-api.pangolin-sdk-toutiao-b.com^
+||p1-lm.adkwai.com^
+||xlog.jd.com^
+||dsp-x.jd.com^
+||p1-lm.adkwai.com^
+||open.e.kuaishou.com^
+
